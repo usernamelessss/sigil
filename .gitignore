@@ -1,0 +1,52 @@
+# Environments
+.env
+env/
+venv/
+envs/
+pyvenv.cfg
+tox.ini
+*.tox/
+*.envrc
+.direnv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 编辑器和 IDE 生成的文件
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.userprefs
+
+# Poetry
+poetry.lock
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib64/
+lib/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.whl
+MANIFEST.in
+*.spec
+
+# Directorys.
+tests/
+
+# Files
